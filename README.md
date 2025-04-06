@@ -10,7 +10,7 @@ Este trabajo práctico tiene como objetivo practicar el desarrollo guiado por pr
 ## Fecha de Vencimiento
 El trabajo debe ser entregado antes del **09/04/2025 a las 13:00 hs**.
 
-## Enfoque
+## Enfobitalque
 El trabajo se realizará en dos fases, siguiendo las prácticas de TDD:
 
 ### Fase 1: Implementación de Pruebas
